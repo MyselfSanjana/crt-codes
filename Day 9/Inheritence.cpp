@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
- //inheritence
+ //single inheritence
 
  class Human{
     //properties
