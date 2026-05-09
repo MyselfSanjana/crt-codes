@@ -25,7 +25,7 @@ class Student{
 
 int main(){
     Student obj;
-    obj.setter("Ssanjana",20,01);
+    obj.setter("Sanjana",20,01);
     cout<<obj.getter();
 }
 
